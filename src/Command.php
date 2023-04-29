@@ -6,11 +6,11 @@ namespace Arctix\Console;
 use Illuminate\Console\Command as LaravelParentCommand;
 
 /**
- * AbstractCommand
+ * Command
  *
  * @author bu0nq <hello@bu0nq.ru>
  */
-abstract class AbstractCommand extends LaravelParentCommand
+abstract class Command extends LaravelParentCommand
 {
 
 }
